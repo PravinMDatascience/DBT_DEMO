@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: TPCH_SF1
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: TPCH_SF1
+    tables:
+      - name: CUSTOMER
+  - name: TPCH_SF2
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: tpch_sf1
+    tables: 
+     - name: NATION
+      
+      
