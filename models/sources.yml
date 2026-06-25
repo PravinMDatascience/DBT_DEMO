@@ -48,5 +48,11 @@ sources:
     tables: 
        - name: SUPPLIER
 
+  - name: TPCH_SF9
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: tpch_sf1
+    tables: 
+      - name: orders
+
       
       
