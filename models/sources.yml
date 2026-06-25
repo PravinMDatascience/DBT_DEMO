@@ -11,5 +11,42 @@ sources:
     schema: tpch_sf1
     tables: 
      - name: NATION
+
+  - name: TPCH_SF3
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: tpch_sf1
+    tables: 
+      - name: LINEITEM
+
+  - name: TPCH_SF4
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: tpch_sf1
+    tables: 
+      - name: REGION
+
+  - name: TPCH_SF5
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: tpch_sf1
+    tables: 
+      - name: ORDERS
+
+  - name: TPCH_SF6
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: tpch_sf1
+    tables: 
+      - name: PART
+
+  - name: TPCH_SF7
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: tpch_sf1
+    tables: 
+      - name: PARTSUPP
+
+  - name: TPCH_SF8
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: tpch_sf1
+    tables: 
+       - name: SUPPLIER
+
       
       
