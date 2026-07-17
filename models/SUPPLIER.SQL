@@ -1,4 +1,8 @@
-{{ config(materialized='table') }}
+{{ config(
+    materialized='table',
+    snowflake_warehouse='my_largewh'
+) }}
+
 
 select
 * 

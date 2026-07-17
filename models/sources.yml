@@ -6,7 +6,7 @@ sources:
     schema: TPCH_SF1
     tables:
       - name: CUSTOMER
-      
+
   - name: TPCH_SF2
     database: SNOWFLAKE_SAMPLE_DATA
     schema: tpch_sf1
@@ -49,11 +49,7 @@ sources:
     tables: 
        - name: SUPPLIER
 
-  - name: TPCH_SF9
-    database: SNOWFLAKE_SAMPLE_DATA
-    schema: tpch_sf1
-    tables: 
-      - name: orders
+   
 
       
       
