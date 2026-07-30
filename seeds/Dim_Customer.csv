@@ -1,0 +1,501 @@
+CustomerID,CustomerName,Industry,CompanySize,CustomerTier,Customerdate
+CUST-0001,Financial Services Corp 1,Financial Services,SMB,Bronze,1/13/2020
+CUST-0002,Technology Corp 2,Technology,Enterprise,Platinum,1/14/2020
+CUST-0003,Retail Corp 3,Retail,SMB,Silver,1/15/2020
+CUST-0004,Financial Services Corp 4,Financial Services,SMB,Silver,1/16/2020
+CUST-0005,Healthcare Corp 5,Healthcare,Enterprise,Silver,1/17/2020
+CUST-0006,Financial Services Corp 6,Financial Services,SMB,Bronze,1/18/2020
+CUST-0007,Retail Corp 7,Retail,Mid-Market,Platinum,1/19/2020
+CUST-0008,Healthcare Corp 8,Healthcare,SMB,Gold,1/20/2020
+CUST-0009,Financial Services Corp 9,Financial Services,Mid-Market,Silver,1/21/2020
+CUST-0010,Energy Corp 10,Energy,SMB,Bronze,1/22/2020
+CUST-0011,Retail Corp 11,Retail,SMB,Gold,1/23/2020
+CUST-0012,Manufacturing Corp 12,Manufacturing,Enterprise,Platinum,1/24/2020
+CUST-0013,Energy Corp 13,Energy,Mid-Market,Platinum,1/25/2020
+CUST-0014,Retail Corp 14,Retail,SMB,Platinum,1/26/2020
+CUST-0015,Financial Services Corp 15,Financial Services,SMB,Platinum,1/27/2020
+CUST-0016,Technology Corp 16,Technology,Mid-Market,Gold,1/28/2020
+CUST-0017,Financial Services Corp 17,Financial Services,Mid-Market,Bronze,1/29/2020
+CUST-0018,Retail Corp 18,Retail,SMB,Gold,1/30/2020
+CUST-0019,Financial Services Corp 19,Financial Services,Mid-Market,Platinum,1/31/2020
+CUST-0020,Retail Corp 20,Retail,Mid-Market,Bronze,2/1/2020
+CUST-0021,Retail Corp 21,Retail,Enterprise,Silver,2/2/2020
+CUST-0022,Retail Corp 22,Retail,Enterprise,Platinum,2/3/2020
+CUST-0023,Energy Corp 23,Energy,Enterprise,Bronze,2/4/2020
+CUST-0024,Energy Corp 24,Energy,Enterprise,Silver,2/5/2020
+CUST-0025,Energy Corp 25,Energy,Mid-Market,Platinum,2/6/2020
+CUST-0026,Energy Corp 26,Energy,Enterprise,Gold,2/7/2020
+CUST-0027,Healthcare Corp 27,Healthcare,Mid-Market,Platinum,2/8/2020
+CUST-0028,Technology Corp 28,Technology,SMB,Platinum,2/9/2020
+CUST-0029,Healthcare Corp 29,Healthcare,SMB,Gold,2/10/2020
+CUST-0030,Energy Corp 30,Energy,Enterprise,Bronze,2/11/2020
+CUST-0031,Energy Corp 31,Energy,SMB,Bronze,2/12/2020
+CUST-0032,Manufacturing Corp 32,Manufacturing,SMB,Silver,2/13/2020
+CUST-0033,Technology Corp 33,Technology,Enterprise,Platinum,2/14/2020
+CUST-0034,Energy Corp 34,Energy,SMB,Silver,2/15/2020
+CUST-0035,Financial Services Corp 35,Financial Services,SMB,Platinum,2/16/2020
+CUST-0036,Healthcare Corp 36,Healthcare,Mid-Market,Silver,2/17/2020
+CUST-0037,Energy Corp 37,Energy,Mid-Market,Silver,2/18/2020
+CUST-0038,Manufacturing Corp 38,Manufacturing,Mid-Market,Gold,2/19/2020
+CUST-0039,Healthcare Corp 39,Healthcare,SMB,Bronze,2/20/2020
+CUST-0040,Retail Corp 40,Retail,Enterprise,Bronze,2/21/2020
+CUST-0041,Healthcare Corp 41,Healthcare,Mid-Market,Gold,2/22/2020
+CUST-0042,Energy Corp 42,Energy,SMB,Gold,2/23/2020
+CUST-0043,Manufacturing Corp 43,Manufacturing,SMB,Platinum,2/24/2020
+CUST-0044,Financial Services Corp 44,Financial Services,Mid-Market,Platinum,2/25/2020
+CUST-0045,Manufacturing Corp 45,Manufacturing,SMB,Gold,2/26/2020
+CUST-0046,Retail Corp 46,Retail,Mid-Market,Gold,2/27/2020
+CUST-0047,Healthcare Corp 47,Healthcare,Enterprise,Bronze,2/28/2020
+CUST-0048,Retail Corp 48,Retail,SMB,Bronze,2/29/2020
+CUST-0049,Manufacturing Corp 49,Manufacturing,Enterprise,Silver,3/1/2020
+CUST-0050,Retail Corp 50,Retail,Enterprise,Gold,3/2/2020
+CUST-0051,Technology Corp 51,Technology,SMB,Silver,3/3/2020
+CUST-0052,Healthcare Corp 52,Healthcare,SMB,Platinum,3/4/2020
+CUST-0053,Technology Corp 53,Technology,SMB,Silver,3/5/2020
+CUST-0054,Healthcare Corp 54,Healthcare,SMB,Silver,3/6/2020
+CUST-0055,Healthcare Corp 55,Healthcare,Enterprise,Bronze,3/7/2020
+CUST-0056,Healthcare Corp 56,Healthcare,Mid-Market,Platinum,3/8/2020
+CUST-0057,Retail Corp 57,Retail,Enterprise,Gold,3/9/2020
+CUST-0058,Financial Services Corp 58,Financial Services,Enterprise,Bronze,3/10/2020
+CUST-0059,Financial Services Corp 59,Financial Services,Enterprise,Bronze,3/11/2020
+CUST-0060,Technology Corp 60,Technology,SMB,Platinum,3/12/2020
+CUST-0061,Manufacturing Corp 61,Manufacturing,Enterprise,Gold,3/13/2020
+CUST-0062,Retail Corp 62,Retail,Enterprise,Bronze,3/14/2020
+CUST-0063,Manufacturing Corp 63,Manufacturing,Enterprise,Platinum,3/15/2020
+CUST-0064,Financial Services Corp 64,Financial Services,Enterprise,Bronze,3/16/2020
+CUST-0065,Technology Corp 65,Technology,Enterprise,Bronze,3/17/2020
+CUST-0066,Energy Corp 66,Energy,Enterprise,Platinum,3/18/2020
+CUST-0067,Retail Corp 67,Retail,Enterprise,Platinum,3/19/2020
+CUST-0068,Energy Corp 68,Energy,Enterprise,Bronze,3/20/2020
+CUST-0069,Manufacturing Corp 69,Manufacturing,Enterprise,Platinum,3/21/2020
+CUST-0070,Manufacturing Corp 70,Manufacturing,Enterprise,Bronze,3/22/2020
+CUST-0071,Manufacturing Corp 71,Manufacturing,Enterprise,Silver,3/23/2020
+CUST-0072,Healthcare Corp 72,Healthcare,SMB,Bronze,3/24/2020
+CUST-0073,Manufacturing Corp 73,Manufacturing,SMB,Gold,3/25/2020
+CUST-0074,Healthcare Corp 74,Healthcare,Enterprise,Platinum,3/26/2020
+CUST-0075,Manufacturing Corp 75,Manufacturing,Enterprise,Platinum,3/27/2020
+CUST-0076,Financial Services Corp 76,Financial Services,SMB,Bronze,3/28/2020
+CUST-0077,Manufacturing Corp 77,Manufacturing,Mid-Market,Bronze,3/29/2020
+CUST-0078,Financial Services Corp 78,Financial Services,SMB,Bronze,3/30/2020
+CUST-0079,Financial Services Corp 79,Financial Services,Mid-Market,Bronze,3/31/2020
+CUST-0080,Retail Corp 80,Retail,Enterprise,Bronze,4/1/2020
+CUST-0081,Technology Corp 81,Technology,Enterprise,Gold,4/2/2020
+CUST-0082,Financial Services Corp 82,Financial Services,Mid-Market,Gold,4/3/2020
+CUST-0083,Healthcare Corp 83,Healthcare,Mid-Market,Gold,4/4/2020
+CUST-0084,Healthcare Corp 84,Healthcare,Mid-Market,Silver,4/5/2020
+CUST-0085,Retail Corp 85,Retail,SMB,Silver,4/6/2020
+CUST-0086,Energy Corp 86,Energy,SMB,Bronze,4/7/2020
+CUST-0087,Financial Services Corp 87,Financial Services,Mid-Market,Silver,4/8/2020
+CUST-0088,Financial Services Corp 88,Financial Services,SMB,Bronze,4/9/2020
+CUST-0089,Energy Corp 89,Energy,SMB,Gold,4/10/2020
+CUST-0090,Technology Corp 90,Technology,SMB,Silver,4/11/2020
+CUST-0091,Energy Corp 91,Energy,Mid-Market,Gold,4/12/2020
+CUST-0092,Healthcare Corp 92,Healthcare,SMB,Silver,4/13/2020
+CUST-0093,Manufacturing Corp 93,Manufacturing,Enterprise,Gold,4/14/2020
+CUST-0094,Technology Corp 94,Technology,Enterprise,Silver,4/15/2020
+CUST-0095,Manufacturing Corp 95,Manufacturing,SMB,Gold,4/16/2020
+CUST-0096,Energy Corp 96,Energy,SMB,Gold,4/17/2020
+CUST-0097,Financial Services Corp 97,Financial Services,SMB,Gold,4/18/2020
+CUST-0098,Manufacturing Corp 98,Manufacturing,SMB,Gold,4/19/2020
+CUST-0099,Healthcare Corp 99,Healthcare,SMB,Silver,4/20/2020
+CUST-0100,Financial Services Corp 100,Financial Services,Mid-Market,Bronze,4/21/2020
+CUST-0101,Healthcare Corp 101,Healthcare,Mid-Market,Bronze,4/22/2020
+CUST-0102,Financial Services Corp 102,Financial Services,Enterprise,Gold,4/23/2020
+CUST-0103,Energy Corp 103,Energy,Enterprise,Platinum,4/24/2020
+CUST-0104,Energy Corp 104,Energy,Enterprise,Bronze,4/25/2020
+CUST-0105,Energy Corp 105,Energy,SMB,Silver,4/26/2020
+CUST-0106,Manufacturing Corp 106,Manufacturing,SMB,Bronze,4/27/2020
+CUST-0107,Energy Corp 107,Energy,Mid-Market,Platinum,4/28/2020
+CUST-0108,Financial Services Corp 108,Financial Services,Enterprise,Gold,4/29/2020
+CUST-0109,Manufacturing Corp 109,Manufacturing,Enterprise,Gold,4/30/2020
+CUST-0110,Healthcare Corp 110,Healthcare,Mid-Market,Silver,5/1/2020
+CUST-0111,Financial Services Corp 111,Financial Services,SMB,Platinum,5/2/2020
+CUST-0112,Retail Corp 112,Retail,Enterprise,Silver,5/3/2020
+CUST-0113,Manufacturing Corp 113,Manufacturing,Enterprise,Gold,5/4/2020
+CUST-0114,Energy Corp 114,Energy,Mid-Market,Platinum,5/5/2020
+CUST-0115,Technology Corp 115,Technology,Enterprise,Bronze,5/6/2020
+CUST-0116,Energy Corp 116,Energy,Enterprise,Gold,5/7/2020
+CUST-0117,Technology Corp 117,Technology,Enterprise,Silver,5/8/2020
+CUST-0118,Technology Corp 118,Technology,Mid-Market,Bronze,5/9/2020
+CUST-0119,Manufacturing Corp 119,Manufacturing,Mid-Market,Silver,5/10/2020
+CUST-0120,Financial Services Corp 120,Financial Services,Mid-Market,Bronze,5/11/2020
+CUST-0121,Energy Corp 121,Energy,SMB,Bronze,5/12/2020
+CUST-0122,Retail Corp 122,Retail,Mid-Market,Silver,5/13/2020
+CUST-0123,Technology Corp 123,Technology,Enterprise,Gold,5/14/2020
+CUST-0124,Technology Corp 124,Technology,Enterprise,Bronze,5/15/2020
+CUST-0125,Technology Corp 125,Technology,Enterprise,Gold,5/16/2020
+CUST-0126,Technology Corp 126,Technology,Enterprise,Platinum,5/17/2020
+CUST-0127,Technology Corp 127,Technology,SMB,Silver,5/18/2020
+CUST-0128,Retail Corp 128,Retail,Enterprise,Gold,5/19/2020
+CUST-0129,Retail Corp 129,Retail,Mid-Market,Bronze,5/20/2020
+CUST-0130,Retail Corp 130,Retail,SMB,Platinum,5/21/2020
+CUST-0131,Technology Corp 131,Technology,SMB,Bronze,5/22/2020
+CUST-0132,Retail Corp 132,Retail,Mid-Market,Gold,5/23/2020
+CUST-0133,Financial Services Corp 133,Financial Services,Mid-Market,Bronze,5/24/2020
+CUST-0134,Technology Corp 134,Technology,SMB,Bronze,5/25/2020
+CUST-0135,Energy Corp 135,Energy,SMB,Silver,5/26/2020
+CUST-0136,Manufacturing Corp 136,Manufacturing,SMB,Silver,5/27/2020
+CUST-0137,Energy Corp 137,Energy,Enterprise,Silver,5/28/2020
+CUST-0138,Retail Corp 138,Retail,SMB,Platinum,5/29/2020
+CUST-0139,Manufacturing Corp 139,Manufacturing,Mid-Market,Platinum,5/30/2020
+CUST-0140,Energy Corp 140,Energy,Mid-Market,Gold,5/31/2020
+CUST-0141,Technology Corp 141,Technology,SMB,Silver,6/1/2020
+CUST-0142,Technology Corp 142,Technology,SMB,Gold,6/2/2020
+CUST-0143,Manufacturing Corp 143,Manufacturing,Mid-Market,Gold,6/3/2020
+CUST-0144,Manufacturing Corp 144,Manufacturing,Enterprise,Bronze,6/4/2020
+CUST-0145,Healthcare Corp 145,Healthcare,Enterprise,Gold,6/5/2020
+CUST-0146,Energy Corp 146,Energy,Mid-Market,Platinum,6/6/2020
+CUST-0147,Healthcare Corp 147,Healthcare,Mid-Market,Bronze,6/7/2020
+CUST-0148,Manufacturing Corp 148,Manufacturing,Enterprise,Silver,6/8/2020
+CUST-0149,Healthcare Corp 149,Healthcare,SMB,Gold,6/9/2020
+CUST-0150,Financial Services Corp 150,Financial Services,Mid-Market,Bronze,6/10/2020
+CUST-0151,Energy Corp 151,Energy,Enterprise,Bronze,6/11/2020
+CUST-0152,Financial Services Corp 152,Financial Services,Mid-Market,Bronze,6/12/2020
+CUST-0153,Manufacturing Corp 153,Manufacturing,SMB,Platinum,6/13/2020
+CUST-0154,Manufacturing Corp 154,Manufacturing,SMB,Platinum,6/14/2020
+CUST-0155,Retail Corp 155,Retail,Mid-Market,Platinum,6/15/2020
+CUST-0156,Financial Services Corp 156,Financial Services,Mid-Market,Bronze,6/16/2020
+CUST-0157,Manufacturing Corp 157,Manufacturing,Mid-Market,Platinum,6/17/2020
+CUST-0158,Manufacturing Corp 158,Manufacturing,Mid-Market,Gold,6/18/2020
+CUST-0159,Healthcare Corp 159,Healthcare,SMB,Gold,6/19/2020
+CUST-0160,Technology Corp 160,Technology,SMB,Platinum,6/20/2020
+CUST-0161,Energy Corp 161,Energy,SMB,Bronze,6/21/2020
+CUST-0162,Manufacturing Corp 162,Manufacturing,Mid-Market,Bronze,6/22/2020
+CUST-0163,Technology Corp 163,Technology,Enterprise,Platinum,6/23/2020
+CUST-0164,Technology Corp 164,Technology,Mid-Market,Bronze,6/24/2020
+CUST-0165,Energy Corp 165,Energy,Mid-Market,Platinum,6/25/2020
+CUST-0166,Healthcare Corp 166,Healthcare,SMB,Gold,6/26/2020
+CUST-0167,Manufacturing Corp 167,Manufacturing,SMB,Gold,6/27/2020
+CUST-0168,Manufacturing Corp 168,Manufacturing,Enterprise,Gold,6/28/2020
+CUST-0169,Retail Corp 169,Retail,SMB,Bronze,6/29/2020
+CUST-0170,Healthcare Corp 170,Healthcare,Enterprise,Silver,6/30/2020
+CUST-0171,Energy Corp 171,Energy,SMB,Silver,7/1/2020
+CUST-0172,Technology Corp 172,Technology,SMB,Gold,7/2/2020
+CUST-0173,Healthcare Corp 173,Healthcare,SMB,Platinum,7/3/2020
+CUST-0174,Retail Corp 174,Retail,Enterprise,Bronze,7/4/2020
+CUST-0175,Technology Corp 175,Technology,Mid-Market,Gold,7/5/2020
+CUST-0176,Retail Corp 176,Retail,Enterprise,Platinum,7/6/2020
+CUST-0177,Retail Corp 177,Retail,Enterprise,Bronze,7/7/2020
+CUST-0178,Energy Corp 178,Energy,SMB,Bronze,7/8/2020
+CUST-0179,Retail Corp 179,Retail,SMB,Silver,7/9/2020
+CUST-0180,Technology Corp 180,Technology,Enterprise,Gold,7/10/2020
+CUST-0181,Financial Services Corp 181,Financial Services,Mid-Market,Silver,7/11/2020
+CUST-0182,Technology Corp 182,Technology,Mid-Market,Bronze,7/12/2020
+CUST-0183,Energy Corp 183,Energy,SMB,Gold,7/13/2020
+CUST-0184,Healthcare Corp 184,Healthcare,Mid-Market,Silver,7/14/2020
+CUST-0185,Healthcare Corp 185,Healthcare,Enterprise,Platinum,7/15/2020
+CUST-0186,Healthcare Corp 186,Healthcare,Mid-Market,Gold,7/16/2020
+CUST-0187,Retail Corp 187,Retail,Enterprise,Bronze,7/17/2020
+CUST-0188,Healthcare Corp 188,Healthcare,SMB,Silver,7/18/2020
+CUST-0189,Manufacturing Corp 189,Manufacturing,SMB,Bronze,7/19/2020
+CUST-0190,Technology Corp 190,Technology,Mid-Market,Silver,7/20/2020
+CUST-0191,Financial Services Corp 191,Financial Services,Enterprise,Bronze,7/21/2020
+CUST-0192,Healthcare Corp 192,Healthcare,SMB,Bronze,7/22/2020
+CUST-0193,Energy Corp 193,Energy,SMB,Bronze,7/23/2020
+CUST-0194,Manufacturing Corp 194,Manufacturing,SMB,Gold,7/24/2020
+CUST-0195,Manufacturing Corp 195,Manufacturing,SMB,Platinum,7/25/2020
+CUST-0196,Retail Corp 196,Retail,Mid-Market,Bronze,7/26/2020
+CUST-0197,Healthcare Corp 197,Healthcare,SMB,Bronze,7/27/2020
+CUST-0198,Manufacturing Corp 198,Manufacturing,Mid-Market,Platinum,7/28/2020
+CUST-0199,Manufacturing Corp 199,Manufacturing,SMB,Silver,7/29/2020
+CUST-0200,Healthcare Corp 200,Healthcare,Mid-Market,Silver,7/30/2020
+CUST-0201,Financial Services Corp 201,Financial Services,SMB,Silver,7/31/2020
+CUST-0202,Technology Corp 202,Technology,Mid-Market,Bronze,8/1/2020
+CUST-0203,Financial Services Corp 203,Financial Services,SMB,Platinum,8/2/2020
+CUST-0204,Technology Corp 204,Technology,SMB,Gold,8/3/2020
+CUST-0205,Manufacturing Corp 205,Manufacturing,Mid-Market,Gold,8/4/2020
+CUST-0206,Energy Corp 206,Energy,Enterprise,Gold,8/5/2020
+CUST-0207,Retail Corp 207,Retail,Enterprise,Silver,8/6/2020
+CUST-0208,Manufacturing Corp 208,Manufacturing,Enterprise,Gold,8/7/2020
+CUST-0209,Manufacturing Corp 209,Manufacturing,Mid-Market,Bronze,8/8/2020
+CUST-0210,Retail Corp 210,Retail,Enterprise,Platinum,8/9/2020
+CUST-0211,Financial Services Corp 211,Financial Services,SMB,Silver,8/10/2020
+CUST-0212,Retail Corp 212,Retail,Enterprise,Platinum,8/11/2020
+CUST-0213,Retail Corp 213,Retail,Enterprise,Gold,8/12/2020
+CUST-0214,Manufacturing Corp 214,Manufacturing,Mid-Market,Platinum,8/13/2020
+CUST-0215,Retail Corp 215,Retail,Enterprise,Bronze,8/14/2020
+CUST-0216,Technology Corp 216,Technology,Mid-Market,Gold,8/15/2020
+CUST-0217,Healthcare Corp 217,Healthcare,SMB,Platinum,8/16/2020
+CUST-0218,Financial Services Corp 218,Financial Services,SMB,Bronze,8/17/2020
+CUST-0219,Healthcare Corp 219,Healthcare,Mid-Market,Bronze,8/18/2020
+CUST-0220,Healthcare Corp 220,Healthcare,Enterprise,Gold,8/19/2020
+CUST-0221,Technology Corp 221,Technology,SMB,Platinum,8/20/2020
+CUST-0222,Technology Corp 222,Technology,SMB,Bronze,8/21/2020
+CUST-0223,Energy Corp 223,Energy,SMB,Silver,8/22/2020
+CUST-0224,Technology Corp 224,Technology,SMB,Bronze,8/23/2020
+CUST-0225,Energy Corp 225,Energy,SMB,Gold,8/24/2020
+CUST-0226,Healthcare Corp 226,Healthcare,Mid-Market,Silver,8/25/2020
+CUST-0227,Retail Corp 227,Retail,SMB,Bronze,8/26/2020
+CUST-0228,Technology Corp 228,Technology,SMB,Gold,8/27/2020
+CUST-0229,Healthcare Corp 229,Healthcare,SMB,Silver,8/28/2020
+CUST-0230,Energy Corp 230,Energy,Mid-Market,Platinum,8/29/2020
+CUST-0231,Financial Services Corp 231,Financial Services,SMB,Bronze,8/30/2020
+CUST-0232,Healthcare Corp 232,Healthcare,Mid-Market,Gold,8/31/2020
+CUST-0233,Financial Services Corp 233,Financial Services,Enterprise,Silver,9/1/2020
+CUST-0234,Retail Corp 234,Retail,Enterprise,Silver,9/2/2020
+CUST-0235,Manufacturing Corp 235,Manufacturing,Mid-Market,Gold,9/3/2020
+CUST-0236,Healthcare Corp 236,Healthcare,Mid-Market,Silver,9/4/2020
+CUST-0237,Retail Corp 237,Retail,SMB,Gold,9/5/2020
+CUST-0238,Technology Corp 238,Technology,SMB,Silver,9/6/2020
+CUST-0239,Energy Corp 239,Energy,Mid-Market,Bronze,9/7/2020
+CUST-0240,Healthcare Corp 240,Healthcare,Mid-Market,Silver,9/8/2020
+CUST-0241,Healthcare Corp 241,Healthcare,Enterprise,Silver,9/9/2020
+CUST-0242,Energy Corp 242,Energy,Mid-Market,Silver,9/10/2020
+CUST-0243,Retail Corp 243,Retail,Mid-Market,Platinum,9/11/2020
+CUST-0244,Manufacturing Corp 244,Manufacturing,Mid-Market,Platinum,9/12/2020
+CUST-0245,Technology Corp 245,Technology,Enterprise,Bronze,9/13/2020
+CUST-0246,Energy Corp 246,Energy,Mid-Market,Silver,9/14/2020
+CUST-0247,Healthcare Corp 247,Healthcare,SMB,Bronze,9/15/2020
+CUST-0248,Energy Corp 248,Energy,Enterprise,Bronze,9/16/2020
+CUST-0249,Financial Services Corp 249,Financial Services,Mid-Market,Gold,9/17/2020
+CUST-0250,Energy Corp 250,Energy,SMB,Silver,9/18/2020
+CUST-0251,Technology Corp 251,Technology,Mid-Market,Platinum,9/19/2020
+CUST-0252,Healthcare Corp 252,Healthcare,Mid-Market,Gold,9/20/2020
+CUST-0253,Financial Services Corp 253,Financial Services,SMB,Bronze,9/21/2020
+CUST-0254,Healthcare Corp 254,Healthcare,SMB,Silver,9/22/2020
+CUST-0255,Retail Corp 255,Retail,SMB,Bronze,9/23/2020
+CUST-0256,Technology Corp 256,Technology,SMB,Bronze,9/24/2020
+CUST-0257,Retail Corp 257,Retail,Enterprise,Bronze,9/25/2020
+CUST-0258,Healthcare Corp 258,Healthcare,Enterprise,Silver,9/26/2020
+CUST-0259,Energy Corp 259,Energy,Mid-Market,Gold,9/27/2020
+CUST-0260,Manufacturing Corp 260,Manufacturing,Enterprise,Silver,9/28/2020
+CUST-0261,Healthcare Corp 261,Healthcare,SMB,Bronze,9/29/2020
+CUST-0262,Manufacturing Corp 262,Manufacturing,Enterprise,Silver,9/30/2020
+CUST-0263,Manufacturing Corp 263,Manufacturing,SMB,Silver,10/1/2020
+CUST-0264,Financial Services Corp 264,Financial Services,Mid-Market,Gold,10/2/2020
+CUST-0265,Manufacturing Corp 265,Manufacturing,Mid-Market,Bronze,10/3/2020
+CUST-0266,Energy Corp 266,Energy,Mid-Market,Gold,10/4/2020
+CUST-0267,Financial Services Corp 267,Financial Services,Enterprise,Silver,10/5/2020
+CUST-0268,Technology Corp 268,Technology,Mid-Market,Gold,10/6/2020
+CUST-0269,Manufacturing Corp 269,Manufacturing,SMB,Silver,10/7/2020
+CUST-0270,Healthcare Corp 270,Healthcare,Mid-Market,Gold,10/8/2020
+CUST-0271,Healthcare Corp 271,Healthcare,Enterprise,Platinum,10/9/2020
+CUST-0272,Energy Corp 272,Energy,Mid-Market,Bronze,10/10/2020
+CUST-0273,Financial Services Corp 273,Financial Services,Mid-Market,Silver,10/11/2020
+CUST-0274,Technology Corp 274,Technology,Mid-Market,Silver,10/12/2020
+CUST-0275,Healthcare Corp 275,Healthcare,Enterprise,Silver,10/13/2020
+CUST-0276,Financial Services Corp 276,Financial Services,Mid-Market,Bronze,10/14/2020
+CUST-0277,Technology Corp 277,Technology,SMB,Silver,10/15/2020
+CUST-0278,Energy Corp 278,Energy,Mid-Market,Silver,10/16/2020
+CUST-0279,Financial Services Corp 279,Financial Services,Enterprise,Silver,10/17/2020
+CUST-0280,Healthcare Corp 280,Healthcare,Mid-Market,Gold,10/18/2020
+CUST-0281,Financial Services Corp 281,Financial Services,Enterprise,Bronze,10/19/2020
+CUST-0282,Retail Corp 282,Retail,Enterprise,Silver,10/20/2020
+CUST-0283,Technology Corp 283,Technology,SMB,Silver,10/21/2020
+CUST-0284,Energy Corp 284,Energy,Mid-Market,Silver,10/22/2020
+CUST-0285,Healthcare Corp 285,Healthcare,SMB,Gold,10/23/2020
+CUST-0286,Technology Corp 286,Technology,Mid-Market,Bronze,10/24/2020
+CUST-0287,Retail Corp 287,Retail,SMB,Gold,10/25/2020
+CUST-0288,Retail Corp 288,Retail,SMB,Gold,10/26/2020
+CUST-0289,Energy Corp 289,Energy,Enterprise,Bronze,10/27/2020
+CUST-0290,Retail Corp 290,Retail,Enterprise,Platinum,10/28/2020
+CUST-0291,Financial Services Corp 291,Financial Services,Mid-Market,Silver,10/29/2020
+CUST-0292,Healthcare Corp 292,Healthcare,Mid-Market,Silver,10/30/2020
+CUST-0293,Financial Services Corp 293,Financial Services,SMB,Silver,10/31/2020
+CUST-0294,Healthcare Corp 294,Healthcare,Mid-Market,Silver,11/1/2020
+CUST-0295,Financial Services Corp 295,Financial Services,SMB,Gold,11/2/2020
+CUST-0296,Retail Corp 296,Retail,Mid-Market,Bronze,11/3/2020
+CUST-0297,Financial Services Corp 297,Financial Services,Enterprise,Gold,11/4/2020
+CUST-0298,Manufacturing Corp 298,Manufacturing,SMB,Platinum,11/5/2020
+CUST-0299,Healthcare Corp 299,Healthcare,Mid-Market,Bronze,11/6/2020
+CUST-0300,Manufacturing Corp 300,Manufacturing,Enterprise,Platinum,11/7/2020
+CUST-0301,Technology Corp 301,Technology,Mid-Market,Platinum,11/8/2020
+CUST-0302,Retail Corp 302,Retail,Enterprise,Platinum,11/9/2020
+CUST-0303,Technology Corp 303,Technology,Mid-Market,Gold,11/10/2020
+CUST-0304,Manufacturing Corp 304,Manufacturing,SMB,Silver,11/11/2020
+CUST-0305,Manufacturing Corp 305,Manufacturing,SMB,Bronze,11/12/2020
+CUST-0306,Financial Services Corp 306,Financial Services,Mid-Market,Platinum,11/13/2020
+CUST-0307,Financial Services Corp 307,Financial Services,SMB,Bronze,11/14/2020
+CUST-0308,Manufacturing Corp 308,Manufacturing,SMB,Platinum,11/15/2020
+CUST-0309,Manufacturing Corp 309,Manufacturing,Mid-Market,Bronze,11/16/2020
+CUST-0310,Retail Corp 310,Retail,SMB,Silver,11/17/2020
+CUST-0311,Energy Corp 311,Energy,Mid-Market,Silver,11/18/2020
+CUST-0312,Financial Services Corp 312,Financial Services,Mid-Market,Platinum,11/19/2020
+CUST-0313,Healthcare Corp 313,Healthcare,Mid-Market,Silver,11/20/2020
+CUST-0314,Retail Corp 314,Retail,Mid-Market,Bronze,11/21/2020
+CUST-0315,Financial Services Corp 315,Financial Services,SMB,Gold,11/22/2020
+CUST-0316,Technology Corp 316,Technology,Enterprise,Silver,11/23/2020
+CUST-0317,Retail Corp 317,Retail,Mid-Market,Gold,11/24/2020
+CUST-0318,Financial Services Corp 318,Financial Services,Enterprise,Platinum,11/25/2020
+CUST-0319,Technology Corp 319,Technology,SMB,Silver,11/26/2020
+CUST-0320,Manufacturing Corp 320,Manufacturing,Enterprise,Silver,11/27/2020
+CUST-0321,Healthcare Corp 321,Healthcare,Enterprise,Platinum,11/28/2020
+CUST-0322,Retail Corp 322,Retail,SMB,Platinum,11/29/2020
+CUST-0323,Technology Corp 323,Technology,SMB,Bronze,11/30/2020
+CUST-0324,Manufacturing Corp 324,Manufacturing,SMB,Silver,12/1/2020
+CUST-0325,Manufacturing Corp 325,Manufacturing,SMB,Gold,12/2/2020
+CUST-0326,Manufacturing Corp 326,Manufacturing,SMB,Bronze,12/3/2020
+CUST-0327,Technology Corp 327,Technology,SMB,Gold,12/4/2020
+CUST-0328,Healthcare Corp 328,Healthcare,Mid-Market,Gold,12/5/2020
+CUST-0329,Healthcare Corp 329,Healthcare,Mid-Market,Bronze,12/6/2020
+CUST-0330,Retail Corp 330,Retail,SMB,Silver,12/7/2020
+CUST-0331,Financial Services Corp 331,Financial Services,Enterprise,Bronze,12/8/2020
+CUST-0332,Retail Corp 332,Retail,SMB,Silver,12/9/2020
+CUST-0333,Manufacturing Corp 333,Manufacturing,SMB,Bronze,12/10/2020
+CUST-0334,Financial Services Corp 334,Financial Services,SMB,Gold,12/11/2020
+CUST-0335,Healthcare Corp 335,Healthcare,Enterprise,Platinum,12/12/2020
+CUST-0336,Retail Corp 336,Retail,SMB,Bronze,12/13/2020
+CUST-0337,Energy Corp 337,Energy,Mid-Market,Gold,12/14/2020
+CUST-0338,Technology Corp 338,Technology,Enterprise,Platinum,12/15/2020
+CUST-0339,Manufacturing Corp 339,Manufacturing,SMB,Silver,12/16/2020
+CUST-0340,Manufacturing Corp 340,Manufacturing,Mid-Market,Bronze,12/17/2020
+CUST-0341,Healthcare Corp 341,Healthcare,Mid-Market,Platinum,12/18/2020
+CUST-0342,Technology Corp 342,Technology,Mid-Market,Bronze,12/19/2020
+CUST-0343,Retail Corp 343,Retail,Mid-Market,Platinum,12/20/2020
+CUST-0344,Energy Corp 344,Energy,Enterprise,Silver,12/21/2020
+CUST-0345,Energy Corp 345,Energy,Mid-Market,Gold,12/22/2020
+CUST-0346,Healthcare Corp 346,Healthcare,Mid-Market,Platinum,12/23/2020
+CUST-0347,Technology Corp 347,Technology,Enterprise,Platinum,12/24/2020
+CUST-0348,Healthcare Corp 348,Healthcare,SMB,Gold,12/25/2020
+CUST-0349,Healthcare Corp 349,Healthcare,Enterprise,Bronze,12/26/2020
+CUST-0350,Retail Corp 350,Retail,Enterprise,Silver,12/27/2020
+CUST-0351,Energy Corp 351,Energy,Enterprise,Bronze,12/28/2020
+CUST-0352,Healthcare Corp 352,Healthcare,Enterprise,Gold,12/29/2020
+CUST-0353,Financial Services Corp 353,Financial Services,SMB,Gold,12/30/2020
+CUST-0354,Retail Corp 354,Retail,SMB,Gold,12/31/2020
+CUST-0355,Healthcare Corp 355,Healthcare,Mid-Market,Gold,1/1/2021
+CUST-0356,Energy Corp 356,Energy,Enterprise,Silver,1/2/2021
+CUST-0357,Retail Corp 357,Retail,Mid-Market,Silver,1/3/2021
+CUST-0358,Retail Corp 358,Retail,Mid-Market,Platinum,1/4/2021
+CUST-0359,Retail Corp 359,Retail,Mid-Market,Bronze,1/5/2021
+CUST-0360,Healthcare Corp 360,Healthcare,SMB,Silver,1/6/2021
+CUST-0361,Financial Services Corp 361,Financial Services,Mid-Market,Platinum,1/7/2021
+CUST-0362,Financial Services Corp 362,Financial Services,SMB,Silver,1/8/2021
+CUST-0363,Healthcare Corp 363,Healthcare,Enterprise,Gold,1/9/2021
+CUST-0364,Manufacturing Corp 364,Manufacturing,Enterprise,Gold,1/10/2021
+CUST-0365,Retail Corp 365,Retail,SMB,Bronze,1/11/2021
+CUST-0366,Energy Corp 366,Energy,SMB,Platinum,1/12/2021
+CUST-0367,Healthcare Corp 367,Healthcare,Mid-Market,Silver,1/13/2021
+CUST-0368,Financial Services Corp 368,Financial Services,SMB,Platinum,1/14/2021
+CUST-0369,Financial Services Corp 369,Financial Services,Enterprise,Silver,1/15/2021
+CUST-0370,Healthcare Corp 370,Healthcare,Enterprise,Gold,1/16/2021
+CUST-0371,Financial Services Corp 371,Financial Services,Enterprise,Platinum,1/17/2021
+CUST-0372,Technology Corp 372,Technology,SMB,Gold,1/18/2021
+CUST-0373,Financial Services Corp 373,Financial Services,Mid-Market,Bronze,1/19/2021
+CUST-0374,Technology Corp 374,Technology,Mid-Market,Silver,1/20/2021
+CUST-0375,Retail Corp 375,Retail,Mid-Market,Gold,1/21/2021
+CUST-0376,Financial Services Corp 376,Financial Services,SMB,Silver,1/22/2021
+CUST-0377,Energy Corp 377,Energy,Mid-Market,Platinum,1/23/2021
+CUST-0378,Healthcare Corp 378,Healthcare,Enterprise,Bronze,1/24/2021
+CUST-0379,Energy Corp 379,Energy,SMB,Gold,1/25/2021
+CUST-0380,Energy Corp 380,Energy,SMB,Silver,1/26/2021
+CUST-0381,Financial Services Corp 381,Financial Services,Mid-Market,Bronze,1/27/2021
+CUST-0382,Financial Services Corp 382,Financial Services,SMB,Silver,1/28/2021
+CUST-0383,Manufacturing Corp 383,Manufacturing,Mid-Market,Gold,1/29/2021
+CUST-0384,Financial Services Corp 384,Financial Services,Enterprise,Bronze,1/30/2021
+CUST-0385,Retail Corp 385,Retail,SMB,Bronze,1/31/2021
+CUST-0386,Financial Services Corp 386,Financial Services,Enterprise,Platinum,2/1/2021
+CUST-0387,Energy Corp 387,Energy,Enterprise,Bronze,2/2/2021
+CUST-0388,Energy Corp 388,Energy,Enterprise,Gold,2/3/2021
+CUST-0389,Manufacturing Corp 389,Manufacturing,Mid-Market,Gold,2/4/2021
+CUST-0390,Financial Services Corp 390,Financial Services,Mid-Market,Silver,2/5/2021
+CUST-0391,Manufacturing Corp 391,Manufacturing,Mid-Market,Platinum,2/6/2021
+CUST-0392,Financial Services Corp 392,Financial Services,SMB,Bronze,2/7/2021
+CUST-0393,Energy Corp 393,Energy,Mid-Market,Platinum,2/8/2021
+CUST-0394,Manufacturing Corp 394,Manufacturing,Mid-Market,Gold,2/9/2021
+CUST-0395,Financial Services Corp 395,Financial Services,SMB,Silver,2/10/2021
+CUST-0396,Retail Corp 396,Retail,SMB,Silver,2/11/2021
+CUST-0397,Healthcare Corp 397,Healthcare,SMB,Platinum,2/12/2021
+CUST-0398,Retail Corp 398,Retail,Mid-Market,Bronze,2/13/2021
+CUST-0399,Technology Corp 399,Technology,Mid-Market,Platinum,2/14/2021
+CUST-0400,Manufacturing Corp 400,Manufacturing,Enterprise,Silver,2/15/2021
+CUST-0401,Retail Corp 401,Retail,Enterprise,Bronze,2/16/2021
+CUST-0402,Financial Services Corp 402,Financial Services,Mid-Market,Bronze,2/17/2021
+CUST-0403,Healthcare Corp 403,Healthcare,Mid-Market,Gold,2/18/2021
+CUST-0404,Manufacturing Corp 404,Manufacturing,Mid-Market,Silver,2/19/2021
+CUST-0405,Healthcare Corp 405,Healthcare,Enterprise,Bronze,2/20/2021
+CUST-0406,Retail Corp 406,Retail,SMB,Gold,2/21/2021
+CUST-0407,Manufacturing Corp 407,Manufacturing,Enterprise,Silver,2/22/2021
+CUST-0408,Healthcare Corp 408,Healthcare,SMB,Gold,2/23/2021
+CUST-0409,Retail Corp 409,Retail,SMB,Silver,2/24/2021
+CUST-0410,Manufacturing Corp 410,Manufacturing,Mid-Market,Gold,2/25/2021
+CUST-0411,Energy Corp 411,Energy,Mid-Market,Gold,2/26/2021
+CUST-0412,Technology Corp 412,Technology,SMB,Silver,2/27/2021
+CUST-0413,Healthcare Corp 413,Healthcare,Mid-Market,Gold,2/28/2021
+CUST-0414,Manufacturing Corp 414,Manufacturing,SMB,Platinum,3/1/2021
+CUST-0415,Technology Corp 415,Technology,SMB,Bronze,3/2/2021
+CUST-0416,Healthcare Corp 416,Healthcare,SMB,Bronze,3/3/2021
+CUST-0417,Healthcare Corp 417,Healthcare,SMB,Bronze,3/4/2021
+CUST-0418,Technology Corp 418,Technology,Mid-Market,Platinum,3/5/2021
+CUST-0419,Healthcare Corp 419,Healthcare,Mid-Market,Gold,3/6/2021
+CUST-0420,Energy Corp 420,Energy,SMB,Bronze,3/7/2021
+CUST-0421,Healthcare Corp 421,Healthcare,Enterprise,Platinum,3/8/2021
+CUST-0422,Energy Corp 422,Energy,Mid-Market,Gold,3/9/2021
+CUST-0423,Retail Corp 423,Retail,Enterprise,Silver,3/10/2021
+CUST-0424,Retail Corp 424,Retail,Mid-Market,Bronze,3/11/2021
+CUST-0425,Healthcare Corp 425,Healthcare,SMB,Bronze,3/12/2021
+CUST-0426,Manufacturing Corp 426,Manufacturing,Mid-Market,Gold,3/13/2021
+CUST-0427,Manufacturing Corp 427,Manufacturing,SMB,Bronze,3/14/2021
+CUST-0428,Healthcare Corp 428,Healthcare,Enterprise,Bronze,3/15/2021
+CUST-0429,Energy Corp 429,Energy,Enterprise,Silver,3/16/2021
+CUST-0430,Energy Corp 430,Energy,SMB,Silver,3/17/2021
+CUST-0431,Manufacturing Corp 431,Manufacturing,Enterprise,Silver,3/18/2021
+CUST-0432,Manufacturing Corp 432,Manufacturing,Enterprise,Gold,3/19/2021
+CUST-0433,Retail Corp 433,Retail,Mid-Market,Platinum,3/20/2021
+CUST-0434,Technology Corp 434,Technology,Mid-Market,Bronze,3/21/2021
+CUST-0435,Technology Corp 435,Technology,Enterprise,Bronze,3/22/2021
+CUST-0436,Manufacturing Corp 436,Manufacturing,Enterprise,Platinum,3/23/2021
+CUST-0437,Healthcare Corp 437,Healthcare,Enterprise,Silver,3/24/2021
+CUST-0438,Financial Services Corp 438,Financial Services,SMB,Silver,3/25/2021
+CUST-0439,Energy Corp 439,Energy,Mid-Market,Platinum,3/26/2021
+CUST-0440,Technology Corp 440,Technology,Enterprise,Silver,3/27/2021
+CUST-0441,Energy Corp 441,Energy,SMB,Platinum,3/28/2021
+CUST-0442,Manufacturing Corp 442,Manufacturing,SMB,Gold,3/29/2021
+CUST-0443,Manufacturing Corp 443,Manufacturing,SMB,Platinum,3/30/2021
+CUST-0444,Retail Corp 444,Retail,SMB,Platinum,3/31/2021
+CUST-0445,Technology Corp 445,Technology,SMB,Bronze,4/1/2021
+CUST-0446,Financial Services Corp 446,Financial Services,SMB,Bronze,4/2/2021
+CUST-0447,Financial Services Corp 447,Financial Services,Mid-Market,Gold,4/3/2021
+CUST-0448,Manufacturing Corp 448,Manufacturing,Enterprise,Silver,4/4/2021
+CUST-0449,Retail Corp 449,Retail,Enterprise,Platinum,4/5/2021
+CUST-0450,Financial Services Corp 450,Financial Services,SMB,Bronze,4/6/2021
+CUST-0451,Energy Corp 451,Energy,Mid-Market,Silver,4/7/2021
+CUST-0452,Energy Corp 452,Energy,SMB,Bronze,4/8/2021
+CUST-0453,Healthcare Corp 453,Healthcare,Mid-Market,Platinum,4/9/2021
+CUST-0454,Energy Corp 454,Energy,Enterprise,Bronze,4/10/2021
+CUST-0455,Healthcare Corp 455,Healthcare,Enterprise,Platinum,4/11/2021
+CUST-0456,Healthcare Corp 456,Healthcare,SMB,Gold,4/12/2021
+CUST-0457,Financial Services Corp 457,Financial Services,SMB,Gold,4/13/2021
+CUST-0458,Retail Corp 458,Retail,Enterprise,Bronze,4/14/2021
+CUST-0459,Technology Corp 459,Technology,Mid-Market,Gold,4/15/2021
+CUST-0460,Financial Services Corp 460,Financial Services,Mid-Market,Gold,4/16/2021
+CUST-0461,Energy Corp 461,Energy,Mid-Market,Silver,4/17/2021
+CUST-0462,Energy Corp 462,Energy,Enterprise,Platinum,4/18/2021
+CUST-0463,Financial Services Corp 463,Financial Services,Enterprise,Bronze,4/19/2021
+CUST-0464,Retail Corp 464,Retail,Mid-Market,Bronze,4/20/2021
+CUST-0465,Manufacturing Corp 465,Manufacturing,Mid-Market,Bronze,4/21/2021
+CUST-0466,Financial Services Corp 466,Financial Services,Mid-Market,Gold,4/22/2021
+CUST-0467,Manufacturing Corp 467,Manufacturing,SMB,Bronze,4/23/2021
+CUST-0468,Healthcare Corp 468,Healthcare,Mid-Market,Platinum,4/24/2021
+CUST-0469,Manufacturing Corp 469,Manufacturing,SMB,Silver,4/25/2021
+CUST-0470,Technology Corp 470,Technology,Mid-Market,Gold,4/26/2021
+CUST-0471,Manufacturing Corp 471,Manufacturing,SMB,Bronze,4/27/2021
+CUST-0472,Retail Corp 472,Retail,Mid-Market,Bronze,4/28/2021
+CUST-0473,Healthcare Corp 473,Healthcare,Mid-Market,Silver,4/29/2021
+CUST-0474,Financial Services Corp 474,Financial Services,Mid-Market,Silver,4/30/2021
+CUST-0475,Financial Services Corp 475,Financial Services,SMB,Bronze,5/1/2021
+CUST-0476,Manufacturing Corp 476,Manufacturing,SMB,Platinum,5/2/2021
+CUST-0477,Manufacturing Corp 477,Manufacturing,Mid-Market,Silver,5/3/2021
+CUST-0478,Healthcare Corp 478,Healthcare,Enterprise,Silver,5/4/2021
+CUST-0479,Retail Corp 479,Retail,SMB,Bronze,5/5/2021
+CUST-0480,Healthcare Corp 480,Healthcare,Mid-Market,Gold,5/6/2021
+CUST-0481,Energy Corp 481,Energy,SMB,Bronze,5/7/2021
+CUST-0482,Energy Corp 482,Energy,SMB,Silver,5/8/2021
+CUST-0483,Energy Corp 483,Energy,Mid-Market,Silver,5/9/2021
+CUST-0484,Energy Corp 484,Energy,SMB,Silver,5/10/2021
+CUST-0485,Manufacturing Corp 485,Manufacturing,Mid-Market,Silver,5/11/2021
+CUST-0486,Financial Services Corp 486,Financial Services,Enterprise,Bronze,5/12/2021
+CUST-0487,Energy Corp 487,Energy,Mid-Market,Platinum,5/13/2021
+CUST-0488,Retail Corp 488,Retail,Mid-Market,Gold,5/14/2021
+CUST-0489,Manufacturing Corp 489,Manufacturing,Mid-Market,Gold,5/15/2021
+CUST-0490,Technology Corp 490,Technology,SMB,Platinum,5/16/2021
+CUST-0491,Energy Corp 491,Energy,SMB,Silver,5/17/2021
+CUST-0492,Retail Corp 492,Retail,Enterprise,Silver,5/18/2021
+CUST-0493,Retail Corp 493,Retail,SMB,Gold,5/19/2021
+CUST-0494,Technology Corp 494,Technology,Mid-Market,Gold,5/20/2021
+CUST-0495,Healthcare Corp 495,Healthcare,SMB,Bronze,5/21/2021
+CUST-0496,Healthcare Corp 496,Healthcare,SMB,Gold,5/22/2021
+CUST-0497,Healthcare Corp 497,Healthcare,SMB,Platinum,5/23/2021
+CUST-0498,Healthcare Corp 498,Healthcare,Mid-Market,Platinum,5/24/2021
+CUST-0499,Manufacturing Corp 499,Manufacturing,SMB,Platinum,5/25/2021
+CUST-0500,Retail Corp 500,Retail,Mid-Market,Silver,5/26/2021

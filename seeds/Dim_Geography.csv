@@ -1,0 +1,20 @@
+GeographyID,City,Country,Region,Geography_date
+GEO-0001,New York,United States,North America,1/13/2020
+GEO-0002,Los Angeles,United States,North America,1/14/2020
+GEO-0003,Chicago,United States,North America,1/15/2020
+GEO-0004,Houston,United States,North America,1/16/2020
+GEO-0005,Toronto,Canada,North America,1/17/2020
+GEO-0006,Vancouver,Canada,North America,1/18/2020
+GEO-0007,Montreal,Canada,North America,1/19/2020
+GEO-0008,London,United Kingdom,Europe,1/20/2020
+GEO-0009,Manchester,United Kingdom,Europe,1/21/2020
+GEO-0010,Birmingham,United Kingdom,Europe,1/22/2020
+GEO-0011,Berlin,Germany,Europe,1/23/2020
+GEO-0012,Munich,Germany,Europe,1/24/2020
+GEO-0013,Hamburg,Germany,Europe,1/25/2020
+GEO-0014,Tokyo,Japan,Asia Pacific,1/26/2020
+GEO-0015,Osaka,Japan,Asia Pacific,1/27/2020
+GEO-0016,Nagoya,Japan,Asia Pacific,1/28/2020
+GEO-0017,Sydney,Australia,Asia Pacific,1/29/2020
+GEO-0018,Melbourne,Australia,Asia Pacific,1/30/2020
+GEO-0019,Brisbane,Australia,Asia Pacific,1/31/2020
