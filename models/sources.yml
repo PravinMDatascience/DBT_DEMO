@@ -1,55 +1,15 @@
 version: 2
 
 sources:
-  - name: TPCH_SF1
-    database: SNOWFLAKE_SAMPLE_DATA
-    schema: TPCH_SF1
+  - name: DBT_DB
+    schema: DBT_SCHEMA
+    database: DBT_DB
     tables:
-      - name: CUSTOMER
-
-  - name: TPCH_SF2
-    database: SNOWFLAKE_SAMPLE_DATA
-    schema: tpch_sf1
-    tables: 
-     - name: NATION
-
-  - name: TPCH_SF3
-    database: SNOWFLAKE_SAMPLE_DATA
-    schema: tpch_sf1
-    tables: 
-      - name: LINEITEM
-
-  - name: TPCH_SF4
-    database: SNOWFLAKE_SAMPLE_DATA
-    schema: tpch_sf1
-    tables: 
-      - name: REGION
-
-  - name: TPCH_SF5
-    database: SNOWFLAKE_SAMPLE_DATA
-    schema: tpch_sf1
-    tables: 
-      - name: ORDERS
-
-  - name: TPCH_SF6
-    database: SNOWFLAKE_SAMPLE_DATA
-    schema: tpch_sf1
-    tables: 
-      - name: PART
-
-  - name: TPCH_SF7
-    database: SNOWFLAKE_SAMPLE_DATA
-    schema: tpch_sf1
-    tables: 
-      - name: PARTSUPP
-
-  - name: TPCH_SF8
-    database: SNOWFLAKE_SAMPLE_DATA
-    schema: tpch_sf1
-    tables: 
-       - name: SUPPLIER
-
-   
-
-      
-      
+      - name: DIM_CHANNEL
+      - name: DIM_CUSTOMER
+      - name: DIM_DATE
+      - name: DIG_GEOGRAPHY
+      - name: DIM_PRODUCT
+      - name: DIM_SALESREP
+      - name: FACT_ORDERS
+      - name: DIM_PRODUCT 
