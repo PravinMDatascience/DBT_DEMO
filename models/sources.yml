@@ -1,15 +1,13 @@
 version: 2
 
+ 
+
 sources:
-  - name: DBT_DB
-    schema: DBT_SCHEMA
-    database: DBT_DB
+  - name: tpch # This is the logical name you give to the source.
+    database: snowflake_sample_data
+    schema: tpch_sf1
     tables:
-      - name: DIM_CHANNEL
-      - name: DIM_CUSTOMER
-      - name: DIM_DATE
-      - name: DIG_GEOGRAPHY
-      - name: DIM_PRODUCT
-      - name: DIM_SALESREP
-      - name: FACT_ORDERS
-      - name: DIM_PRODUCT 
+      - name: customer
+      - name: orders
+      - name: lineitem
+      - name: part      
